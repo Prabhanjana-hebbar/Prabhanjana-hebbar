@@ -1,4 +1,5 @@
-<h2 align="left">Hello there👋! My name is Prabhanjana M P and I'm an aspiring Full-Stack WebDeveloper </h2>
+<h2 align="left">Hello there!👋 My name is Prabhanjana M P 
+  and I'm an aspiring Full-Stack WebDeveloper </h2>
 
 ###
 
