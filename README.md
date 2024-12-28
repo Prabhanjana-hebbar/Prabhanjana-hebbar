@@ -1,8 +1,7 @@
 <h2 align="center">Hello there!👋 </h2>
-<h4>||My name is Prabhanjana M P || </h4>
- <h4>  |Aspiring Full-Stack WebDeveloper| </h4>
+<h4>My name is Prabhanjana M P  |   Aspiring Full-Stack Web Developer </h4>
 
-<h5> Undergraduate Electronics and Communication Student. Passionate on developing and creating responsive User-Friendly Websites for a better future.</h5>
+<h5> Undergraduate Electronics and Communication Student. As an ambitious full stack developer, I am constantly seeking to expand my knowledge and skills in the ever-evolving world of technology. I am passionate about staying up-to-date with the latest tools and techniques, and I strive to continuously improve my abilities in order to deliver high-quality solutions.</h5>
   
 
 ###
