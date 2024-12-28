@@ -1,6 +1,6 @@
 <h2 align="center">Hello there!👋 </h2>
-<h4>||My name is Prabhanjana M P ||
-   |Aspiring Full-Stack WebDeveloper| </h4>
+<h4>||My name is Prabhanjana M P || </h4>
+ <h4>  |Aspiring Full-Stack WebDeveloper| </h4>
 
 <h5> Undergraduate Electronics and Communication Student. Passionate on developing and creating responsive User-Friendly Websites for a better future.</h5>
   
