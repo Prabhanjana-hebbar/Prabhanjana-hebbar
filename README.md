@@ -1,5 +1,5 @@
 <h2 align="center">Hello there!👋 </h2>
-<h4> <i>  (Name) ==> {Prabhanjana M P} </i> </B> </h4>
+<h4> <i>  (Name) => {Prabhanjana M P} </i> </B> </h4>
   <h5><i> (PassionateAbout) =>  {Full-Stack Web Developer} </i></h5>
   
 
