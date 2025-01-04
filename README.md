@@ -1,6 +1,6 @@
 <h2 align="center">Hello there!👋 </h2>
 <h4> <i>  Am Prabhanjana M P </i> </B> </h4>
-  <h5><i> Aspiring Full-Stack Web Developer </i></h5>
+  <h5>Aspiring Full-Stack Web Developer</h5>
   
 
 <h5> Undergraduate Electronics and Communication Student. As an ambitious full stack developer, I am constantly seeking to expand my knowledge and skills in the ever-evolving world of technology. I am passionate about staying up-to-date with the latest tools and techniques, and I strive to continuously improve my abilities in order to deliver high-quality solutions.With a strong foundation in both front-end and back-end development, I am able to seamlessly integrate various technologies to create robust and user-friendly applications. My experience includes working with languages such as HTML, CSS, JavaScript, TypeScript as well as framework like React. </h5>
