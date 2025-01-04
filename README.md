@@ -1,5 +1,5 @@
 <h2 align="center">Hello there!👋 </h2>
-<h4> <i>  Am Prabhanjana M P </i> </B> </h4>
+<h4 align="center"> <i>  Am Prabhanjana M P </i> </B> </h4>
   <h5>Aspiring Full-Stack Web Developer</h5>
   
 
